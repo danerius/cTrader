@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9o+gJB0N5Tj/4sclIl/TN2FlUDJVQ3XSuyy3Art1G7GPsunydkhdmQk29kNvSQJEqxq/4Cs/q0yNSgHMhy1Qrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daner\\Documents\\cAlgo\\Sources\\Indicators\\FibonacciEMAs\\FibonacciEMAs\\FibonacciEMAs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daner\\.nuget\\packages\\ctrader.automate\\1.0.9\\ctrader.automate.1.0.9.nupkg.sha512",
+    "C:\\Users\\daner\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\daner\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\daner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

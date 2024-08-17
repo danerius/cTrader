@@ -1,0 +1,5 @@
+C:\Users\daner\Documents\cAlgo\Sources\Indicators\FibonacciEMAs\FibonacciEMAs\obj\Debug\net6.0\FibonacciEMAs.csproj.AssemblyReference.cache
+C:\Users\daner\Documents\cAlgo\Sources\Indicators\FibonacciEMAs\FibonacciEMAs\obj\Debug\net6.0\FibonacciEMAs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daner\Documents\cAlgo\Sources\Indicators\FibonacciEMAs\FibonacciEMAs\obj\Debug\net6.0\FibonacciEMAs.AssemblyInfoInputs.cache
+C:\Users\daner\Documents\cAlgo\Sources\Indicators\FibonacciEMAs\FibonacciEMAs\obj\Debug\net6.0\FibonacciEMAs.AssemblyInfo.cs
+C:\Users\daner\Documents\cAlgo\Sources\Indicators\FibonacciEMAs\FibonacciEMAs\obj\Debug\net6.0\FibonacciEMAs.csproj.CoreCompileInputs.cache
